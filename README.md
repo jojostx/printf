@@ -5,6 +5,6 @@
 It covers the following topics:
 
 * function pointers
-* arrays, variadic functions, I/O etc.
+* arrays, variadic functions, I/O etc
 
-It also aims to teach about collaboration as team by requiring the members to actively develop and work on solutions together
+It also aims to teach about collaborating as a team by requiring the members to actively develop and work on solutions together
